@@ -1,31 +1,34 @@
-# Planilha de track de industria do SBGAMES
-###
-Universidade Federal da Bahia
-Grupo de pesquisa sobre a industria brasileira de games
-Professora Lynn Alves
-###
-## Verificar no track de industria do SBGAMES dos últimos 10 anos (2013-2022) se os artigos respondem as questões abaixo
+# Planilha de acompanhamento da indústria de games do SBGAMES
+---
 
-### Característica da indústria
-> Principais problemas tecnológicos enfrentados
-> Empresas que são contratadas por outras para desenvolver jogos
-> Pontos fortes
-> Pontos fracos
-> Oportunidades da indústria brasileira sinalizada pelos desenvolvedores	
+Universidade Federal da Bahia  
+Grupo de pesquisa sobre a indústria brasileira de games  
+Professora Lynn Alves
+
+---
+
+## Verificação dos últimos 10 anos (2013-2022) no SBGAMES para responder às seguintes questões:
+
+### Características da indústria
+- Principais problemas tecnológicos enfrentados
+- Empresas contratadas por outras para o desenvolvimento de jogos
+- Pontos fortes
+- Pontos fracos
+- Oportunidades identificadas pelos desenvolvedores na indústria brasileira
 
 ### Empresas
-> Quantidade por região
-> Plataformas
-> Estrutura (grande, pequena, média)
-> Formas de financiamento para desenvolver os jogos
-> Modelo de Negócio
-> Jogos mais representativos
+- Quantidade de empresas por região
+- Plataformas utilizadas
+- Estrutura das empresas (grande, pequena, média)
+- Formas de financiamento para o desenvolvimento de jogos
+- Modelos de negócio adotados
+- Jogos mais representativos
 
 ### Associação
-> Nacional
-> Regional
+- Associação nacional
+- Associações regionais
 
 ### Desafios
-> Principais desafios
+- Principais desafios enfrentados
 
-### Outros pontos importates
+### Outros pontos importantes
