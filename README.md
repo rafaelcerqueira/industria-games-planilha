@@ -1,9 +1,9 @@
 # Planilha de track de industria do SBGAMES
-####
+###
 Universidade Federal da Bahia
 Grupo de pesquisa sobre a industria brasileira de games
 Professora Lynn Alves
-####
+###
 ## Verificar no track de industria do SBGAMES dos últimos 10 anos (2013-2022) se os artigos respondem as questões abaixo
 
 ### Característica da indústria
